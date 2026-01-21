@@ -1,6 +1,16 @@
 # Security-Image_Stegranography_python
 [French] Projet de Stéganographie à partir d'image en Python   
 [English] Image Steganography Project in Python (First it will be the French README then the English README After)   
+
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Security](https://img.shields.io/badge/Security-Steganography-red)
+![Cryptography](https://img.shields.io/badge/Crypto-Image-orange)
+![PIL](https://img.shields.io/badge/PIL-Image_Processing-blue)
+![Status](https://img.shields.io/badge/Status-Complete-success)
+
+
 <div align="center">
 	<img width="543" alt="image" src="https://github.com/D-TheProgrammer/Security-Image_Stegranography_python/assets/151149998/55cbdf66-652a-4b44-ab84-659e9a19d7a6">
 </div>
